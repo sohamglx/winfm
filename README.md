@@ -1,6 +1,6 @@
 # winfm
 
-`winfm` is a native Windows package for [Flame](https://github.com/shoya-129/flame) that provides a simple, high-level API for interacting with Windows system features.
+`winfm` is a native Windows package for [Flame](https://github.com/sohamglx/flame) that provides a simple, high-level API for interacting with Windows system features.
 
 It gives Flame applications access to system information, machine controls, battery status, power management, clipboard operations, master audio volume, and Bluetooth scanning and connectivity without exposing the underlying Windows APIs.
 
@@ -21,7 +21,7 @@ The package keeps all Windows-specific implementation details behind the package
 Add `winfm` to your Flame project:
 
 ```bash
-fmp add https://github.com/shoya-129/winfm
+fmp add https://github.com/sohamglx/winfm
 ```
 
 ### Import
